@@ -1,7 +1,7 @@
 #  Swipe Band  
 A wearable armband game powered by ESP32 and a flexible display
 
-![Swipe Band Mockup](docs/mockup.png) <!-- Optional: replace with your image -->
+![Swipe Band Mockup](CONCEPT.jpg) <!-- Optional: replace with your image -->
 
 ## 📖 Overview
 **Swipe Band** is a lightweight wearable game system built around an **ESP32** microcontroller and a **flexible OLED/TFT display**.  
