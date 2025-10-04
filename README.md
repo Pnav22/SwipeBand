@@ -25,5 +25,7 @@ A wearable armband game powered by ESP32 and a flexible display
 | FT6206 Capacitive Touch Panel  | Detects swipes and taps                        |
 | Li-Po Battery (500–1000 mAh)   | Portable power supply                          |
 | TP4056 Charging Module        | For battery charging via USB                   |
+|Black Filament| To print out case|
+|Sand Paper| To post proccess print|
 
 ---
