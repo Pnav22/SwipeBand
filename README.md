@@ -1,5 +1,5 @@
 #  Swipe Band  
-A wearable armband game powered by ESP32 and a flexible display
+A wearable armband game powered by Nano V3.0 Board and a flexible display
 
 ![Swipe Band Mockup](CONCEPT.jpg) <!-- Optional: replace with your image -->
 
@@ -9,7 +9,7 @@ A wearable armband game powered by ESP32 and a flexible display
 ---
 
 ## Features
-- **ESP32-powered** — runs the entire game logic locally  
+- *Nano V3 powered** — runs the entire game logic locally  
 -  **Flexible or curved display** — mounted on an armband for comfort and style  
 - **Swipe detection** via capacitive touch panel or IMU-based gestures  
 - **Battery-powered** for portable gameplay.
@@ -20,11 +20,9 @@ A wearable armband game powered by ESP32 and a flexible display
 ##  Hardware Components
 | Component                        | Description                                     |
 |-----------------------------------|-------------------------------------------------|
-| ESP32-S3 / ESP32 Dev Board      | Main microcontroller (Wi-Fi + BLE capable)     |
-| Flexible OLED or TFT display    | SPI-based, 1.3"–2.0" recommended               |
-| FT6206 Capacitive Touch Panel  | Detects swipes and taps                        |
+| Nano V3.0 Board     | Main microcontroller      |
+|TFT Touch Screen LCD   | SPI-based, 3"              |
 | Li-Po Battery (500–1000 mAh)   | Portable power supply                          |
-| TP4056 Charging Module        | For battery charging via USB                   |
 |Black Filament| To print out case|
 |Sand Paper| To post proccess print|
 
