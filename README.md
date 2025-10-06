@@ -1,7 +1,7 @@
 #  Swipe Band  
 A wearable armband game powered by Nano V3.0 Board and a flexible display
 
-![Swipe Band Mockup](CONCEPT.jpg) <!-- Optional: replace with your image -->
+![Swipe Band Mockup](CONCEPT.png) <!-- Optional: replace with your image -->
 
 ##  Overview
 **Swipe Band** is a lightweight wearable game system built around an **ESP32** microcontroller and a **flexible OLED/TFT display**. The game challenges players to **swipe in the direction of on-screen arrows** as quickly and accurately as possible. This is inspired by the HellDivers 2 Strategem call downs. To call down a strategem in Hell Divers the player must enter a combination of arrow keys which then would activate the ability. In the game the player does this on a arm mounted screen. 
