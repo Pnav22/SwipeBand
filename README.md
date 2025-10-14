@@ -1,5 +1,5 @@
 #  Swipe Band  
-A wearable armband game powered by Nano V3.0 Board and a flexible display
+A wearable armband game powered by Uno R3 Board and a flexible display
 
 ![Swipe Band Mockup](CONCEPT.png) <!-- Optional: replace with your image -->
 
